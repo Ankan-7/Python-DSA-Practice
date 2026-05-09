@@ -10,7 +10,7 @@ The goal of this repository is to improve:
 
 ## Topics Covered
 
-- Arrays
+- Arrays & Lists
 - Strings
 - Searching
 - Sorting
