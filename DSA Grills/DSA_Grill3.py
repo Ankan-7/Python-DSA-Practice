@@ -9,7 +9,7 @@ However, you don't want to grow tired of a food if you buy it too often. Therefo
 (ti - 1) taste points when you buy the i-th type of food for the ti-th time.
 Find the maximum number of taste points you can achieve.
 Input Format
-The rst line contains an integer, n, denoting the number of types of food you can buy.
+The first line contains an integer, n, denoting the number of types of food you can buy.
 The next line contains an integer, m, denoting the maximum number of meals you can buy.
 Each line i of the n subsequent lines (where 0 ≤ i < n) contains an integer describing v[i].
 Each line i of the n subsequent lines (where 0 ≤ i < n) contains an integer describing d[i].
@@ -57,7 +57,7 @@ Output:
 Explanation:
 you can buy the 2 meals of the rst type and 2 meals of the second type and 1 meal of the third type and
 get 27 taste points as follows:
-rst type: 5 + (5 - 2) * 1 = 8
+first type: 5 + (5 - 2) * 1 = 8
 second type: 7 + (7 - 4) * 1 = 10
 third type: 9 = 9
 answer: 8 + 10 + 9 = 27 
