@@ -13,6 +13,7 @@ class single_linked_list:
         while last.next:
             last=last.next
         last.next=new_node
+    
     def display(self):
         c=self.head
         while c:
