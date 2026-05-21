@@ -16,6 +16,7 @@ The goal of this repository is to improve:
 - Sorting
 - Stacks
 - Queues
+- LinkedList
 - Some DSA Grills
 
 ## Languages Used
